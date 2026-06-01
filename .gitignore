@@ -37,6 +37,9 @@ u.genre
 u.user
 u.occupation
 
+# Dataset files — generate locally with Trabajo_1/Tablas/generar_datos.py
+*.tsv
+
 # Logs
 *.log
 logs/
